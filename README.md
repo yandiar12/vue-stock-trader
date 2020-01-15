@@ -1,4 +1,4 @@
-# vue-cli-coreui
+# vue-cli-stock-trader
 
 ## Project setup
 ```
